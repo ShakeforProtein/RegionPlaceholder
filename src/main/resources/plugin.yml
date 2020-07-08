@@ -1,0 +1,7 @@
+name: RegionPlaceholder
+version: ${project.version}
+main: me.shakeforprotein.regionplaceholder.RegionPlaceholder
+api-version: 1.13
+authors: [ShakeforProtein]
+description: Adds Papi values for specified regions
+depend: [WorldGuard, PlaceholderAPI]
